@@ -1,0 +1,179 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1098039215686274,
+    "green": 0.1137254901960784,
+    "red": 0.1176470588235294
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC058197-C4B0-46E5-9E6A-2537B5E3EE08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1292.8,
+    "width": 2663,
+    "x": 3971,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "71CA132A-DAC4-4372-8D96-A7B4FA57BF55"
+    },
+    {
+      "class": "bitmap",
+      "id": "359A3915-E4D2-41D2-8146-5C7BF81CFBBC"
+    },
+    {
+      "class": "text",
+      "id": "074A0774-B3D8-43ED-A6B3-BECFFAADE522"
+    },
+    {
+      "class": "bitmap",
+      "id": "90C2ACB1-4E36-41A0-9201-9616688553BC"
+    },
+    {
+      "class": "text",
+      "id": "9A15BFC7-3F9E-4340-B3B8-85ACAEA96B3B"
+    },
+    {
+      "class": "bitmap",
+      "id": "015AA0D0-50D6-47A7-8B79-0774F04CFBF2"
+    },
+    {
+      "class": "text",
+      "id": "886F053B-80D3-4462-9ADF-D83CEADC4769"
+    },
+    {
+      "class": "bitmap",
+      "id": "EFE73455-F127-43E7-9AAD-ACC1745F46EF"
+    },
+    {
+      "class": "text",
+      "id": "22A0BE85-7F55-4E65-BDFA-CF6E0D432865"
+    },
+    {
+      "class": "bitmap",
+      "id": "3F669A17-5A9B-45B5-A6C7-2A304C93B472"
+    },
+    {
+      "class": "text",
+      "id": "52016616-FABA-40CF-8455-6A75ACD8FFEA"
+    },
+    {
+      "class": "group",
+      "id": "BB430BDD-60FE-4585-85B5-0691211B2F58"
+    }
+  ],
+  "name": "Loan",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4AC1A573-5246-4A9A-950E-EDFEC1D21397",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "8D656F28-6D76-4AFF-A4D4-7AF60D20BC65",
+      "includePrototypingConnections": 1,
+      "pageID": "A4B304E1-8D03-4E1F-B293-34A49734E572",
+      "titleLayerID": "71CA132A-DAC4-4372-8D96-A7B4FA57BF55"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

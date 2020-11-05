@@ -1,0 +1,149 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "18AA46E8-6905-4D3E-AEB1-1976F4FC2AC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 721,
+    "width": 3311,
+    "x": -3311,
+    "y": -431
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "69E23BF9-2808-4B8E-B5FF-F1E5A0CA7FD1"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D1CDE9C-4BDD-4A57-BD9E-2B758256661E"
+    },
+    {
+      "class": "rectangle",
+      "id": "B6AE1085-4019-493B-8F8E-A5EE7489DA21"
+    },
+    {
+      "class": "shapePath",
+      "id": "CF2054A7-6888-4569-9A20-D281EC0E9F51"
+    },
+    {
+      "class": "rectangle",
+      "id": "2AA7DCF1-7120-4053-BF9E-AABF3B6ECE6D"
+    },
+    {
+      "class": "shapePath",
+      "id": "58106188-852E-4A92-A99B-08C4F27E5AE9"
+    },
+    {
+      "class": "rectangle",
+      "id": "3657C70C-8530-41C7-B3C7-97F59BACB5C9"
+    },
+    {
+      "class": "shapePath",
+      "id": "ACBF68E6-324E-4B0E-A226-B01998783D62"
+    },
+    {
+      "class": "rectangle",
+      "id": "F77922D0-0C6A-4A2F-A530-721F8DE1056F"
+    },
+    {
+      "class": "shapePath",
+      "id": "08FE728D-9215-4E98-915F-74D9F7E60E2C"
+    },
+    {
+      "class": "rectangle",
+      "id": "202893EA-50D3-4CE6-8ED2-E583D0BF810C"
+    },
+    {
+      "class": "shapePath",
+      "id": "6BE2CDCF-2419-4403-8DBE-857057699918"
+    },
+    {
+      "class": "rectangle",
+      "id": "11963749-97D4-442D-9558-19102E7C3A5F"
+    },
+    {
+      "class": "shapePath",
+      "id": "4FC08CD2-DDAD-446F-8294-C7249F453604"
+    }
+  ],
+  "name": "-Connections",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "42183F2F-7205-4547-B453-F6400D7E1C67",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "isConnectionsContainer": 1
+    }
+  }
+}

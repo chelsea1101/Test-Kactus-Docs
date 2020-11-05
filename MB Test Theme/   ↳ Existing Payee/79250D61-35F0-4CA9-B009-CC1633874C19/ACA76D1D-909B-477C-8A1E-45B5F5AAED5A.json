@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ACA76D1D-909B-477C-8A1E-45B5F5AAED5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 280,
+    "width": 343,
+    "x": 16,
+    "y": 182
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modal /Primary + Secondary / 2 Line + Dividers",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D4F616B-3F1B-459A-B75A-3A5447C9A15A/1C3DF47D-C6BA-4633-86F3-59C87EE1283D_stringValue",
+      "value": "Xóa"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6064E64-1B63-4AD5-BE13-51A3B93AEFB2/37E94704-1C9B-4A05-9421-B705B7667710_stringValue",
+      "value": "Sửa"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9265A752-85A6-4209-B1D4-B027FF0DA569_stringValue",
+      "value": "PHAM MONG DIEP/0032408951103"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "31BCA44F-529D-4623-9737-84B15A9FC012_stringValue",
+      "value": "BIDV - 0032408951103 - Chuyển nhanh"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "1862DB89-9A6B-49D3-AE51-03D67D0734F3",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A257675-1F6D-4062-9903-B11FEA6DDF5A",
+  "verticalSpacing": 0
+}

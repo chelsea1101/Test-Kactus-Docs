@@ -1,0 +1,140 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AFD0EE3E-359D-45B4-99E6-C5A9D4894251",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 767,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FBDB9A78-920A-47FE-82D9-49D50334D4ED"
+    },
+    {
+      "class": "rectangle",
+      "id": "71FBA347-7141-43A7-8DC2-4A45C52F58E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6209A272-D996-43FA-ADF5-F3BE49BB21ED"
+    },
+    {
+      "class": "text",
+      "id": "AE2EA115-9CE6-4408-A928-F9F583241EA8"
+    },
+    {
+      "class": "text",
+      "id": "06D97A51-B4C2-4717-9EC0-B1BA55E58CC5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63CAAC76-B10D-43AC-82F4-8422D4E3209F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F08EB42-401F-4776-BFF2-F515E3F1C26E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3334D49-D237-4F3D-8965-D7E78AE74E1F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AAE02786-8694-4F1E-B332-5BE3F8761540"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87488025-8C9F-4A04-B467-86041B5AD089"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA1D6F50-1728-4581-8DFB-7288AB1F092A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F77DCC11-0E6C-4CB8-89B0-40359114AB46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1738F940-22C8-4C4F-8887-EE504A5A6AB7"
+    }
+  ],
+  "name": "1200 - App / Home / Transfer / Bank Account/1203#2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "51A9C4E7-148D-44C1-BDC2-662630C64451",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B94FADF-FBE4-4715-BE12-88DE2EA7DC70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 98,
+    "width": 343,
+    "x": 16,
+    "y": 210
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "OTP / Bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "13C65D2D-449D-496A-9AC1-EE7C1A1A845B/B9FBF2E4-A084-491B-A673-D2253D1FEFBD_stringValue",
+      "value": "7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "37AD1A0F-BED7-44B4-AE44-C70C5DDA5A5E/B9FBF2E4-A084-491B-A673-D2253D1FEFBD_stringValue",
+      "value": "8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A549931E-A53C-41C9-BD02-787E5DE6D184/B9FBF2E4-A084-491B-A673-D2253D1FEFBD_stringValue",
+      "value": "4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A20A769C-A5C3-4DDD-B15B-93027224AB14/B9FBF2E4-A084-491B-A673-D2253D1FEFBD_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "98FBB277-6F53-4981-9E2F-34483101B8F1/B9FBF2E4-A084-491B-A673-D2253D1FEFBD_stringValue",
+      "value": "2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A98E77D4-A920-4AF7-BE47-A56117235F4A/B9FBF2E4-A084-491B-A673-D2253D1FEFBD_stringValue",
+      "value": "6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "31D4C3E3-8043-424A-8590-160C150AB58D/B9FBF2E4-A084-491B-A673-D2253D1FEFBD_stringValue",
+      "value": "8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "8C7B2901-1257-468E-9A48-F8F1050DF6A3",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "67F38415-7BD2-462F-B432-CBCFEB5DB4D5",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "0520F217-A6EA-4444-BE24-E17D6FDE8F18"
+    }
+  },
+  "verticalSpacing": 0
+}

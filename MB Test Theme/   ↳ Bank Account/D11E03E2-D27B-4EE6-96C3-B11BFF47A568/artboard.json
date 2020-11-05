@@ -1,0 +1,191 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D11E03E2-D27B-4EE6-96C3-B11BFF47A568",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 375,
+    "x": -946.0000000000001,
+    "y": -501
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "61FD2DA8-9432-4DFB-ADAA-4DBAD9485A97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B72F10E-BE26-4948-B356-33D7CADC2085"
+    },
+    {
+      "class": "text",
+      "id": "C3E90AE9-9CDA-4F52-9983-FBBE3840E2D3"
+    },
+    {
+      "class": "text",
+      "id": "DB171AC0-C098-4830-B9E4-5AEAE2C79027"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C2C07B7-FCA2-420E-998B-F6E23A68499F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E60535A0-214F-4923-899C-9F0EBA8068BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DE7E746-74C0-4063-8994-637D808DDAC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68658008-F71A-4270-A3D4-790DE704EE1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40173D3A-F9DE-4D1B-8C44-1B4E3545694A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79B4A9B6-47BD-4189-8653-8A600F0C5206"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE16369F-397E-419B-A562-E6F7FFC09666"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D99F278-C4BC-40DD-9131-B62493BC3EC6"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 43.83333333333334,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 359
+  },
+  "name": "Transfer - Bank Account - 5",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "C4E850EE-2E01-43C2-8F33-D2D3593F3C8A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "D11E03E2-D27B-4EE6-96C3-B11BFF47A568"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

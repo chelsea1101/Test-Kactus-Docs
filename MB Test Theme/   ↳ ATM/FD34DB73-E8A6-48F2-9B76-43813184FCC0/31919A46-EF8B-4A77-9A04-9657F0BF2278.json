@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "31919A46-EF8B-4A77-9A04-9657F0BF2278",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 343,
+    "x": 16,
+    "y": 408
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Fields / Input Line / Filled + Suffix + Caption",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7A6D1259-A935-461B-B0BD-303CAF10CE1F_stringValue",
+      "value": "Số tiền"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1AF90E1-4870-4552-ABCC-583D7E93AB7F_textStyle",
+      "value": "3538D578-30CA-4679-BCAC-647A5D89D856"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1AF90E1-4870-4552-ABCC-583D7E93AB7F_stringValue",
+      "value": "Chuyển qua thẻ ngoài MB: Tối đa 300,000 VND/GD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AC8F9A46-43DB-4F43-BC2D-1ED9205DA16C_stringValue",
+      "value": "VND"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71A0DC05-0E57-45FA-9B74-A9A4017EF69C_stringValue",
+      "value": "5,000,000"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "29A6148B-6FA6-4AA8-92C8-619DAFDF0368",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4D9EF93E-21E4-47BF-A492-339F39CB8802",
+  "verticalSpacing": 0
+}
