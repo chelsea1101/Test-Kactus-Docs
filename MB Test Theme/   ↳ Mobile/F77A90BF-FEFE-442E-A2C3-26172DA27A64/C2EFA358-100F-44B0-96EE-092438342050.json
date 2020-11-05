@@ -33,17 +33,17 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "7E77E928-17F0-4343-A4E0-514D7730B524_symbolID",
+      "overrideName": "2E872B63-AC4D-4A61-9787-D43BCB5BBB0C_symbolID",
       "value": "9400D461-4D37-47E6-BE6A-95A7520B0A1F"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "7E77E928-17F0-4343-A4E0-514D7730B524/527C23D1-4E7D-4194-A356-09E7875E5085_layerStyle",
+      "overrideName": "2E872B63-AC4D-4A61-9787-D43BCB5BBB0C/527C23D1-4E7D-4194-A356-09E7875E5085_layerStyle",
       "value": "22ADDB9E-8229-4783-925A-47B35C071E39"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "1DA711E6-975B-4E9B-A814-500E31463404_stringValue",
+      "overrideName": "03F708E1-F254-4E49-B8C1-C3F67F28D8CF_stringValue",
       "value": "Nhập số điện thoại"
     }
   ],

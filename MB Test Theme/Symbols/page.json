@@ -39,6 +39,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "A9057FBE-9706-427A-91B3-76AE2C0D54B9"
+    }
   ],
   "name": "Symbols",
   "nameIsFixed": false,
